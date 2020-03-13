@@ -38,7 +38,7 @@ var data_z1 = { z: z1, type: 'surface' };
 var data_z2 = { z: z2, showscale: false, opacity: 0.9, type: 'surface', color: 'blue' };
 var data_z3 = { z: z3, showscale: false, opacity: 0.9, type: 'surface' };
 
-class PlotAppSurface2 extends React.Component {
+class PlotAppSurface2 extends Component {
 
     render() {
         return (
